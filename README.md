@@ -8,12 +8,14 @@ This mod adds:
 --The Master Sword: Only obtainable by Treasure Chest drop.
 --Navi: Once you use this with 3 hearts or less, it heals you. Otherwise it will just keep talking and annoying you.
 --The Ocarina of Time: Actually there are only 2 songs (Song of Time and Song of Storms)
+
 ===========================
 OCARINA OF TIME'S TUTORIAL
 ===========================
 Hold sneak (default L-Shift) and click to save the current moment (this is needed for song of time).
 Click to play the Song of Time (which leads you back to the saved moment).
 Hold AUX1 (default E) to play the Song of Storms, but it only works if you're in the water (which dries the water up).
+
 ---------------------------
 
 ---------------------------------------------
