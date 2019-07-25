@@ -34,3 +34,6 @@ Get bows mod here: https://forum.minetest.net/viewtopic.php?t=14384
 4.Move the mod to "minetest/mods/" or "~/.minetest/mods/".
 5.Here we go!
 ============================
+
+This is fan-made, The Legend of Zelda is owned by Nintendo
+----------------------------------------------------------
